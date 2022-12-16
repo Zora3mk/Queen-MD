@@ -10,23 +10,22 @@
                             ( OWNER  DETAILS )
 ══════════════════════════════════════════════════════════════════════════
 ✅ Queen Multi-device Whatsapp Bot
-✅ Coded By DarkWinzo 
+✅ Coded By Zora 
 ══════════════════════════════════════════════════════════════════════════
                               ( CONTACT ME )
 ══════════════════════════════════════════════════════════════════════════
-✅ Telegram: https://t.me/DarkWinzo
-✅ Whatsapp: https://wa.link/jw9ki6
-✅ Instagram:https://msng.link/o/?darkwinzo=ig
-✅ Youtube: https://youtube.com/c/DarkWinzo                                                                                                      
+✅ Telegram: @zorrrrrra
+✅ Whatsapp: +96171350883
+✅ Instagram: @nozex___
+✅ Youtube: @VEOEDITING
+✅ TikTok: @.nozex                                                                                                     
 ══════════════════════════════════════════════════════════════════════════
                              ( PROJECT DETAILS )
 ══════════════════════════════════════════════════════════════════════════
-✅ @project_name Queen-MD [WA Multi-device]
-✅ @author DarkWinzo <https://github.com/DarkWinzo>
+✅ @project_name Zora-Md [WA Multi-device]
+✅ @author Zora
 ✅ @description A WhatsApp based 3ʳᵈ party application that provide many 
    services with a real-time automated conversational experience
-✅ @link <https://github.com/DarkWinzo/Queen-MD>
-✅ @version 0.0.1
 ══════════════════════════════════════════════════════════════════════════
                              ( PROJECT RULES )
 ══════════════════════════════════════════════════════════════════════════
@@ -59,19 +58,19 @@ global.herokuapi = process.env.HEROKU_API_KEY
 global.herokuapp = process.env.HEROKU_APP_NAME
 // Other
 let fake = process.env.OWNER_NUMBER
-global.owner = ['94775200935',`${fake}`]
-global.ownername = process.env.OWNER_NAME
-global.ownernomer = process.env.OWNER_NUMBER
-global.premium = ['94775200935',`${fake}`]
-global.packname = process.env.PACK_NAME
-global.author = process.env.STICKER_AUTHOR_NAME
+global.owner = ['+06171350883',`${fake}`]
+global.ownername = process.env.Zora
+global.ownernomer = process.env.+96171350883
+global.premium = ['+96171350883',`${fake}`]
+global.packname = process.env.Zora Bot
+global.author = process.env.Zora
 global.darkwinzocontact = '9'+'4'+'7'+'7'+'5'+'2'+'0'+'0'+'9'+'3'+'5'
-global.botname = 'Q'+'ᴜ'+'ᴇ'+'ᴇ'+'ɴ'+'-'+'ᴍ'+'ᴅ'
-global.sessionName = 's'+'e'+'s'+'s'+'i'+'o'+'n'+'.'+'q'+'u'+'e'+'e'+'n'
+global.botname = 'Z'+'O'+'R'+'A'+'B'+'O'+'T'
+global.sessionName = 's'+'e'+'s'+'s'+'i'+'o'+'n'+'.'+'z'+'o'+'r'+'r'+'a'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: '*වැඩේ ඉවරයි...✓*',
+    success: '*تم برذر...✓*',
     admin: 'මෙම විධානය භාවිතා කළ හැක්කේ *Group Admin* සඳහා පමණි !',
     botAdmin: 'සමාවන්න😔️,මට මෙම කණ්ඩායමේ *පරිපාලක (Admin)* වරයෙකු නොවී මෙම විධානය ක්‍රියාත්මක කළ නොහැක.',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa',
@@ -79,8 +78,8 @@ global.mess = {
     group: 'මෙම විධානය සාදා ඇත්තේ *Groups* සඳහා පමණි !',
     private: 'මෙම විධානය සාදා ඇත්තේ *Private Chats* සඳහා පමණි !',
     bot: 'මෙම විධානය භාවිතා කළ හැක්කේ මගේ *Owner number* එක සඳහා  පමණි !',
-    wait: 'මදක් රැදී සිටින්න...⏳️',
-    endLimit: 'ඔබගේ දෛනික සීමාව කල් ඉකුත් වී ඇත, සීමාව සෑම පැය 12කට වරක් නැවත සකසනු ලැබේ.',
+    wait: 'انتظر شوي يروحي...⏳️',
+    endLimit: 'خلص وقت البوت, البوت بيتجدد كل 12 ساعه برذر.',
 }
 global.limitawal = {
     premium: "Infinity",
